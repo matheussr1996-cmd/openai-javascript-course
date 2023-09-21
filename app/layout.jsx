@@ -4,7 +4,7 @@ import Footer from "./Footer";
 import { instrumentSans } from "./styles/fonts";
 
 export const metadata = {
-  title: "Langchain JavaScript",
+  title: "Langchain AI",
   description: "Learn  the latest AI technologies from Shawn Esquivel.",
 };
 
